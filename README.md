@@ -2,7 +2,7 @@
 
 Feedback and ideas
 
-这里收集大家对 ViPicks 的意见和建议，产品的修改会参考这里的讨论。ViPicks 的代码不公开，这个仓库只放讨论。
+这里收集大家对 ViPicks 的意见和建议，产品的修改会参考这里的讨论。ViPicks 的代码会动态开源，目前还没有公开；这个仓库只放讨论。
 
 - [提建议](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=ideas)
 - [提问](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=q-a)
@@ -14,7 +14,7 @@ Feedback and ideas
 
 ## English
 
-This is where we collect feedback and ideas about ViPicks, and product changes draw on these discussions. ViPicks' code is not public; this repository holds only the discussions.
+This is where we collect feedback and ideas about ViPicks, and product changes draw on these discussions. ViPicks's code will be dynamically open-sourced, but it is not public yet. This repository holds only the discussions.
 
 - [Suggest an idea](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=ideas)
 - [Ask a question](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=q-a)
