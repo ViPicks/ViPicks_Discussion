@@ -1,0 +1,22 @@
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: 哪个产品 / Which product
+      options:
+        - 网站 / Website (vipicks.com.au)
+        - iOS App
+        - ViMate 桌面版 / ViMate desktop
+        - 其他 / Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你的建议 / Your idea
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 你遇到了什么 / What happened that led to it
