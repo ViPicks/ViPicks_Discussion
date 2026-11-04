@@ -7,6 +7,7 @@ Feedback and ideas
 - [提建议](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=ideas)
 - [提问](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=q-a)
 - [看大家说了什么](https://github.com/ViPicks/ViPicks_Discussion/discussions)
+- [更新日志](CHANGELOG.md)
 
 发帖需要一个 GitHub 账号。这里的内容所有人都能看到，请不要贴订单号、地址、电话或账号信息。
 
@@ -19,6 +20,7 @@ This is where we collect feedback and ideas about ViPicks, and product changes d
 - [Suggest an idea](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=ideas)
 - [Ask a question](https://github.com/ViPicks/ViPicks_Discussion/discussions/new?category=q-a)
 - [Read the discussions](https://github.com/ViPicks/ViPicks_Discussion/discussions)
+- [Changelog](CHANGELOG.md)
 
 Posting needs a GitHub account. Everything here is public, so please leave out order numbers, addresses, phone numbers and account details.
 
